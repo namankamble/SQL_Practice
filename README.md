@@ -1,2 +1,3 @@
 # SQL_Practice
-A collection of SQL queries and projects showcasing my practice and skills in SQL.
+
+Welcome to my SQL practice repository! This repository contains various SQL queries and projects that showcase my skills and understanding of SQL.
